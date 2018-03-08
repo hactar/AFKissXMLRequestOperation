@@ -22,7 +22,7 @@
 
 
 #import "AFKissXMLResponseSerializer.h"
-#import <DDXML.h>
+#import <KissXML/DDXML.h>
 
 @implementation AFKissXMLResponseSerializer
 
